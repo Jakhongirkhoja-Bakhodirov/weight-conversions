@@ -9,8 +9,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": "author@domain.com",
+            "name": "Bakhodirov-Jakhongir",
+            "email": "bahodirovjahongirxoja@gmail.com",
             "role": "Developer"
         }
     ],
@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "VendorName\\Skeleton\\": "src"
+            "Bakhodirov\\WeightConversions\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "VendorName\\Skeleton\\Tests\\": "tests"
+            "Bakhodirov\\WeightConversions\\Tests\\": "tests"
         }
     },
     "scripts": {
