@@ -9,16 +9,13 @@ class Weight
         return new static($kilograms);
     }
 
-    public function __construct(protected float $kilograms)
-    {
-    }
+    public function __construct(protected float $kilograms) {}
 
     public function toPounds(): float
     {
         return $this->kilograms * 2.2046;
     }
 }
-
 
 $className = 'Weight';
 

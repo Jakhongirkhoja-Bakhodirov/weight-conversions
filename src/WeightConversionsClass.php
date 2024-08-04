@@ -2,6 +2,4 @@
 
 namespace Bakhodirov\WeightConversions;
 
-class WeightConversionsClass
-{
-}
+class WeightConversionsClass {}
