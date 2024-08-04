@@ -18,3 +18,8 @@ class Weight
         return $this->kilograms * 2.2046;
     }
 }
+
+
+$className = 'Weight';
+
+echo $className::kilograms(200);
